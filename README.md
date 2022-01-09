@@ -1,6 +1,6 @@
 # Real-ESRGAN ncnn Vulkan
 
-A fork for use in colab notebook for training stylegan3 on *upscaled* pixel art.
+A fork for use in colab notebook for training stylegan3 on *upscaled* pixel art!
 
 ![CI](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan/workflows/CI/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan/blob/master/LICENSE)
